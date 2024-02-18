@@ -1,0 +1,1 @@
+This represents my inaugural endeavor in web programming. It encompasses the creation and design of a website utilizing CSS, HTML, and pre-existing assets, undertaken as part of my collegiate practicum.
